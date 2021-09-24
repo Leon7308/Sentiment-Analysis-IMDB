@@ -25,5 +25,7 @@ Assumptions
 3.	The bag of words assumes all words have different meanings. It does not club words with the same meanings together 
 
 Links
+
 •	Project on Google Colab - https://colab.research.google.com/github/Leon7308/Sentiment-Analysis-IMDB/blob/master/Archit_Sengupta_Sentiment_Analysis.ipynb
+
 •	Database - https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format
