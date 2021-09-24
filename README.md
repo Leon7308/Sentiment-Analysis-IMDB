@@ -26,5 +26,4 @@ Assumptions
 
 Links
 •	Project on Google Colab - https://colab.research.google.com/github/Leon7308/Sentiment-Analysis-IMDB/blob/master/Archit_Sengupta_Sentiment_Analysis.ipynb
-•	Project Link on GitHub - Leon7308/Sentiment-Analysis-IMDB: A simple Sentiment Analysis model using bag of words method (Neural Network) (github.com)
-
+•	Database - https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format
